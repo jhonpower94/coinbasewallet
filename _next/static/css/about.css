@@ -1,0 +1,30 @@
+.\[filter\:blur\(20px\)\] {
+    filter: blur(20px);
+}
+.mix-blend-hard-light {
+    mix-blend-mode: hard-light;
+}
+.opacity-80 {
+    opacity: .8;
+}
+.bg-\[linear-gradient\(180deg\2c \#2ECCFF_4\.58\%\2c \#2D9FFF_27\.69\%\2c \#0029FF_100\%\)\] {
+    background-image: linear-gradient(180deg,#2eccff 4.58%,#2d9fff 27.69%,#0029ff);
+}
+.rounded-\[20px\] {
+    border-radius: 20px;
+}
+.w-\[100px\] {
+    width: 100px;
+}
+.h-2\/4 {
+    height: 50%;
+}
+.-top-2 {
+    top: -0.5rem;
+}
+.-left-3 {
+    left: -0.75rem;
+}
+.absolute {
+    position: absolute;
+}
