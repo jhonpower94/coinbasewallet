@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "metassets-c0e9d"
+  },
+  "targets": {
+    "metassets-c0e9d": {
+      "hosting": {
+        "ma": [
+          "metassets"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
