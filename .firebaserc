@@ -1,12 +1,20 @@
 {
   "projects": {
-    "default": "metassets-c0e9d"
+    "default": "metassets-c0e9d",
+    "fexbit": "fexbit-71986"
   },
   "targets": {
     "metassets-c0e9d": {
       "hosting": {
         "ma": [
           "metassets"
+        ]
+      }
+    },
+    "fexbit-71986": {
+      "hosting": {
+        "fexbit": [
+          "fexbit"
         ]
       }
     }

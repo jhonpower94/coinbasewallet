@@ -1,6 +1,6 @@
 {
   "hosting": [{
-    "target": "ma",
+    "target": "fexbit",
     "public": "public",
     "ignore": [
       "firebase.json",
